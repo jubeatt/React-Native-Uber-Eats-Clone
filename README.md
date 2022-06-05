@@ -12,7 +12,7 @@
 
 ## 實際操作畫面
 
-<video style="border-radius: 10px;" height="500" src="./demo.mov" autoplay="true" muted="false" loop="true"></video>
+![demo](demo.gif)
 
 ## 使用的技術
 
